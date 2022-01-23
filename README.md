@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @margrade
-- 👀 I’m interested in marketing and e-commerce
-- 🌱 I’m currently learning Java and HTML
+- 👀 I’m interested in development and e-commerce
+- 🌱 I’m currently learning backend in Java and Data with Python.
 
 
 <!---
